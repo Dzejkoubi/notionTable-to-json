@@ -1,0 +1,279 @@
+| zánětlivé | inflammatory |
+| oteklé | swollen |
+| hnis | pus |
+| záruka | guarantee |
+| vadný | faulty |
+| výhodný nákup | bargain |
+| pult/počítadlo | counter |
+| snížení/omezení | reduction |
+| štítek/cenovka | label |
+| naúčtovat | charge(price) |
+| značka/známka | mark |
+| živé | lively |
+| rušný | bustling |
+| kuriózní/malebný(netradičně krásný) | quaint |
+| zchátralý | run-down |
+| zanedbaný | neglected |
+| volný čas | leisure |
+| chodec/chodci | pedestrian |
+| nemovitost | estate |
+| průmysl | industry |
+| obytné | residential |
+| venkov | rural |
+| krize | crisis |
+| náhle | abruptly |
+| stádo | herb |
+| navrhnout | propose |
+| náhradní | spare |
+| soběstačný | self-sufficent |
+| jednorázové | disposable |
+| nachází se na adrese | situated |
+| procházka | stroll |
+| svižná chůze | brisk walk |
+| procházka(pomalá-prohlížení po okolí) | stroll |
+| Pomalý běh na dlouhou vzdálenost | jog |
+| malebný | picturesque |
+| předměstí | outskirts/suburb |
+| příjemné | Pleasant |
+| pohodlí | Convenience |
+| navzdory | despite |
+| povinen | obliged |
+| nesměle/plaše | timidly |
+| neškodně | inoffensively |
+| docházka | Attendance |
+| krajina | landscape/countryside |
+| nějaký | a/an |
+| sympaticlý | nice/likeable/friendly |
+| stín(od člověka) | shadow |
+| stín(ne od člověka) | shade |
+| zloba | spite |
+| rozhořčenost | resentfulness |
+| uklidnit/ujistit | reassure |
+| motorové mazivo | engine-grease |
+| neúnavně | relentlessly |
+| květ | blossom |
+| náhubek | muzzle |
+| okvětní lístky | petlas |
+| zázračné | miraculous |
+| neuspořádaný | disarranged |
+| omezovat | restrain |
+| trápení | torment |
+| marnost | vanity |
+| stádo | flock |
+| komín | chimney |
+| oděv | clad |
+| neukázněnost | insubordination |
+| opuštěný | forsaken |
+| vytrhané | plucked up |
+| pevně | firmly |
+| poptat se | inquire |
+| litování | regretting |
+| odsoudit | condemn |
+| šetrně | thriftily |
+| truchlit | grieve |
+| spěšně | hastily |
+| domýšlivý/namyšlený | conceited |
+| vklad | deposit |
+| výběr/odstoupení (od smlouvy) | withdrawal |
+| nadšený | thrilled |
+| pověry | superstitions |
+| přibory | cutlery |
+| ovesná kaše | oatmeal |
+| vědomí | consciousness |
+| víra/přesvědčení | belief |
+| zapadající slunce | setting sun |
+| vycházející slunce | rising sun |
+| důležité záležitosti | matters of consequence |
+| Nicméně | nevertheless |
+| mimořádné | extraordinary |
+| vytřel | he mopped |
+| čelo | forehead |
+| kapesníček | handkerchief |
+| věrný | faithful |
+| Požehnaný | Blessed |
+| vznešený/majestátní | stately |
+| nádherné | splendid |
+| podívaná | Spectacle |
+| vtip | wit |
+| ostrůvek | islet |
+| vyhaslé/zaniklé/vyhynulé | extinct |
+| pohled | glance |
+| zdvořile | courteously |
+| příbytek | abode |
+| ochočený | tamed |
+| opomíjený | neglected |
+| zmanetý | perplexed |
+| nora | burrow |
+| Přemlouvání | Persuasion |
+| vášeň | Passion |
+| údolí | valley |
+| nezbytné | necessary |
+| rozpoznatelné | recognizable |
+| podívat se skrz malou mezeru | peer |
+| rychlý pohled | glase/glimpse |
+| spokojený | contented |
+| zvědavě | inquisitively |
+| naštvaný pohled | glare |
+| Navzdory | In spite of |
+| Navzdory | Despite |
+| podporovat | encourage |
+| usilovat | pursue |
+| pronásledovat | pursuing |
+| hadrová panenka | rag doll |
+| zakázat | forbate |
+| trvat na tom, aby | insist |
+| plahočil se | trudged |
+| Vykouknout | to peep out |
+| spálení od slunce | sunburn |
+| navíc | Moreover |
+| Pozorování | sightings |
+| Dlouhověkost | longevity |
+| obnoveno | renewed |
+| Pověry | Superstition |
+| Navíc | additionally |
+| prostorný | spacious |
+| popelník | ashtray |
+| sledování | surveillance |
+| vnímání | perception |
+| zdráhající se/neochotný | reluctant |
+| ošuntělé | scruffy |
+| dotazy | inquire |
+| skrabatělé | scrappy |
+| nalepí na  | sticks on |
+| vytrh/žený | snatched |
+| zastavil/zasekl se(přestat pracovat) | stalled |
+| žhářství | arson |
+| vloupání | burglary |
+| vydírání | blackmail |
+| zprostit viny | acquit |
+| rivalita/soupeření | rivalry |
+| fámy | rumors |
+| zelí | cabbage |
+| monkl | black eye |
+| pyžamo | pajama |
+| studna | well |
+| únava | weariness |
+| plahočil se | trudged |
+| horečnatý | feverish |
+| pouze/jen | merely |
+| křížový výslech | cross-examine |
+| pulzování | throb |
+| lesk | gleam |
+| křehké | fragile |
+| míchat | to stir |
+| uhasil/zhasnuto/vyhaslé | extinguished |
+| kladka | pulley |
+| větrná korouhvička | weathervane |
+| třesoucí se | trembling |
+| výživa | nourishment |
+| opravdu/vskutku | indeed |
+| mše | Mass |
+| něžnost | tenderness |
+| smutek/žal/zármutek | grief |
+| náhubek | muzzle |
+| hrubý | rough |
+| roztrhané | torn |
+| sestup | descent |
+| zčervenala | she flushed |
+| smutek | sorrow |
+| uklidnit/ujistit | reassure |
+| pláč | weeping |
+| vysící | dangling |
+| roztržené na kusy | torn asunder |
+| špíz | skewer |
+| obklíčen/obležen-lidmi | beset |
+| vězni | inmates |
+| text/lyrika | lyric  |
+| Osvícený | Enlightened |
+| zvětšený | enlarge |
+| způsobilý | eligible |
+| obsadit | occupy |
+| zahrnuje | include |
+| vznést námitku | to object |
+| k vyřešení/vypořádání | to dealt |
+| zdá se že | it seem to |
+| spěchat | rushing |
+| bezhlavě | headlessly/headlong |
+| bezmyšlenkovitě | mindlessly |
+| řítit se bezhlavě do… | rushing headlong |
+| propast | abyss |
+| omezit | restrain |
+| nenapravitelné | irreparable |
+| snést-pocitově, myšelnkově | to bear |
+| prosba/výzva/žádost o výpomoc | plea |
+| rozhodný krok | resolute step |
+| pouze | merely |
+| podívat se kolem sebe | look around |
+| odrazovat od | discourage |
+| rezavý | rusty |
+| zábavné | amusing |
+| kotník | ankle  |
+| jemně | gently |
+| předcházející | preceding |
+| muflon | mouflon |
+| ohromující | stunning |
+| naprostý/úplný | utter |
+| nepřesvědčivé | inconvinient |
+| ohromný/nesmírný | tremendous |
+| osud | fate |
+| zásoby | stockpile |
+| vystěhování | eviction |
+| obezřetně/opatrně | cautiously |
+| škrcení | strangulation/throttling |
+| přikyvování | nodding |
+| padělání | counterfeiting/forgery |
+| Jak je možné že/Jaktože/Jak je to možné? | How come |
+| zcela upřímě | quite frankly |
+| dojíždět | commute |
+| jdi do háje | screw you |
+| žák | pupil |
+| rozsáhlé | vast |
+| hustota | density |
+| po ukončení studia | post-grad |
+| matoucí/zmatečné | baffling |
+| pult/deska/pracovní deska | countertop |
+| bahniště | mudbank |
+| to pivot | otáčet |
+| skromný/pokorný | humble |
+| sukničkář | womanizer |
+| diletant | dilettante |
+| pohrdání/opovržení | disdain |
+| stručný/krátký | brief |
+| jmenovat | to appoint |
+| požádat/žádat - o | to solicit |
+| trestně stíhat | to prosecute |
+| vyhledat | retrieve |
+| hledanému(vyhledal mě) | to sought(he sought me up) |
+| štěpení | fission |
+| životaschopné | viable |
+| odstrašení | deterrence |
+| prorok | prophet |
+| zničit/ztroskotat/zmařit | to scupper |
+| jednoznačné | unambiguous |
+| hojné/bohaté | abundant |
+| škodolibost | gloat |
+| škodolibě se radovat | to gloat |
+| nápravac | remedy |
+| upřímnost | candor |
+| důvěryhodnost | crededibility |
+| uchopit | to grasp |
+| zmírnit | to temper |
+| hluboký | profound |
+| obavy | concern |
+| ponižovat | to humiliate |
+| přestávka(v debatování/probírání něčeho) | recess |
+| pomstychivý | vindictive/vengeful/ravengeful |
+| mučetník | the martyr |
+| trvat na tom, aby | to insist |
+| propracované | elaborate |
+| vypracovat | to elaborate |
+| Mořské panny | mermaids |
+| veranda | porch |
+| stárnoucí/stárnutí | aging |
+| rohožka | doormat/mat |
+| zatuchlý | musty |
+| vratký/rozvrzaný | rickety |
+| lahodný/chutný/svěží/pečlivý | scruptious |
+| vyděšený | startled |
+| tréma/obavy/strach | trepidation |
+| škádlivý/dráždivý | teasing |
